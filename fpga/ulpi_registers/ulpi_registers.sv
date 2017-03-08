@@ -54,10 +54,10 @@ module ulpi_registers
                                 );
 
    initial begin
-      led = 8'b0000_0000;
+      led = 8'b0;
       state = 1'b0;
-      delay = 18'b000000000000000000;
-      ulpi_reg_read_addr = 6'b000000;
+      delay = 18'b0;
+      ulpi_reg_read_addr = 6'b0;
       ulpi_reg_read_en = 1'b0;
       ulpi_reg_write_addr = 1'b0;
       ulpi_reg_write_data = 1'b0;
