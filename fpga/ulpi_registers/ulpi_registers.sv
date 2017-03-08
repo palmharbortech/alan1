@@ -1,3 +1,10 @@
+/*
+ * ulpi_registers.sv
+ * 
+ * Upon each button press, read each register from USB3320, starting at
+ * address 0, and display contents via LEDs.
+ */
+
 `timescale 1 ns/10 ps
 
 module ulpi_registers
