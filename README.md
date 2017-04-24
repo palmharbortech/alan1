@@ -1,1 +1,1 @@
-# Alan1 FPGA Prototyping Board - Cyclone IV E USB 2.0
+# Alan1 FPGA Prototyping Board - Max 10 USB 2.0
