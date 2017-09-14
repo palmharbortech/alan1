@@ -1,4 +1,4 @@
-# Alan1 FPGA Prototyping Board - Max 10 USB 2.0
+# Marina FPGA Prototyping Board - Max 10 USB 2.0
 
 fpga - Verilog HDL configuration for the Max 10 FPGA
 
